@@ -1,0 +1,9 @@
+{
+    "clientID": "hAqNvHK7h6l_uCfoofUShdVipfoa",
+    "signInRedirectURL": "https://localhost:3000",
+    "signOutRedirectURL": "https://localhost:3000",
+    "patientApp" : "RnNjX0tRV0RvVlZEd2w3Qk1rbjluTml3eU04YTp1emhDNGVsNTg5eENVWGVSN1VLb19XOFdxRVVh",
+    "doctorApp" : "anRQVFNqdWJMd25sV3NmSzBCWVUyUV9KRzNzYTpUWjMwVlJBZjNZWEhwN1loaHlYT0lTclVIOUlh",
+    "adminsApp" : "M1haZUV4Vlp4Nmh6ZDMxeUtGSUc1ZEF3clIwYTo2Sml4WExmamhoYllFcFlmMUl2Q0d1VWxyd1Vh",
+    "SP" : "aEFxTnZISzdoNmxfdUNmb29mVVNoZFZpcGZvYTpBV1U1Nm9BeGVBYk9UNkZ0ZlVrckVtUjlCTWNh"
+}

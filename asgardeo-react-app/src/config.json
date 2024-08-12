@@ -1,0 +1,8 @@
+{
+    "clientID": "7F0Yvz3eap1rLZfQO67QiuPfLK0a",
+    "baseUrl": "https://localhost:9444",
+    "signInRedirectURL": "https://localhost:3000",
+    "signOutRedirectURL": "https://localhost:3000",
+    "scope": [ "profile"]
+    }
+    
